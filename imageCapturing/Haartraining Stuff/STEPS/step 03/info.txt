@@ -1,0 +1,10 @@
+rawdata/FudanPed00001.bmp 2 141 165 167 279 395 152 147 342
+rawdata/FudanPed00005.bmp 1 165 40 157 298
+rawdata/FudanPed00007.bmp 2 90 53 146 298 384 72 149 308
+rawdata/FudanPed00008.bmp 1 209 150 165 289
+rawdata/FudanPed00009.bmp 1 137 106 163 299
+rawdata/FudanPed00010.bmp 1 250 75 158 305
+rawdata/FudanPed00011.bmp 1 260 99 186 299
+rawdata/FudanPed00012.bmp 2 136 50 166 317 321 35 123 302
+rawdata/FudanPed00013.bmp 1 360 170 205 314
+rawdata/FudanPed00015.bmp 1 15 33 170 303

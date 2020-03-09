@@ -1,0 +1,10 @@
+- you can obtain full haartraining kit form "haarkit" folder 
+  please note that this toolkit is developed by someone else, i used those to create haar classifier for my image processing project.
+
+- "STEPS" folder contains all required .bat (if you are not interesed to use bat file you can command line with same command) file 
+  and .exe for each steps.pls note file path on the .txt files may be altered. 
+
+- "sample vec" contain human side view vec file .
+
+- "haar classifier" contain human side view haarclassifier which are train by me. GT06_1509_1428_16ST has best performace ! 
+

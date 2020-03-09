@@ -1,0 +1,2 @@
+G01_4569_1428 has 4569 positives samples with 14x28 (width and height)
+other has 1509 samples

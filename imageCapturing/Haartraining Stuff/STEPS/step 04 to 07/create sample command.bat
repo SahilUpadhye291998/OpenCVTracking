@@ -1,0 +1,1 @@
+c:\OpenCV2.1\bin\opencv_createsamples.exe -info positive.txt -vec G01_442_2424.vec -num 442 -w 24 -h 24 PAUSE
